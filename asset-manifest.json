@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trabajo08_React-juego-de-gato/static/css/main.484a0dec.css",
+    "main.js": "/Trabajo08_React-juego-de-gato/static/js/main.25e01d65.js",
+    "index.html": "/Trabajo08_React-juego-de-gato/index.html",
+    "main.484a0dec.css.map": "/Trabajo08_React-juego-de-gato/static/css/main.484a0dec.css.map",
+    "main.25e01d65.js.map": "/Trabajo08_React-juego-de-gato/static/js/main.25e01d65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.484a0dec.css",
+    "static/js/main.25e01d65.js"
+  ]
+}
